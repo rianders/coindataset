@@ -14,6 +14,7 @@ pandas = "*"
 argparse = "*"
 ipython = "*"
 tables = "*"
+tqdm = "*"
 
 [requires]
 python_version = "3.7"
